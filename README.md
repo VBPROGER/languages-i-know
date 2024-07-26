@@ -1,2 +1,2 @@
 # languages-i-know
-Languages that I know.
+Languages I know: programming languages & human languages.
