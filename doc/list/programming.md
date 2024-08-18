@@ -10,6 +10,7 @@
 - Java
 - Node.JS
 - TypeScript
+- Go
 ## OK
 - JavaScript
 - Bash
